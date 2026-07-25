@@ -1,0 +1,20 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+void main() {
+    int a = 4;
+    int v = 3 + a;
+    int m = v * 4;
+    int remainder = m % 3;
+    a +=3;
+
+
+    System.out.println(3>2 || 2==2);
+    System.out.println(34>2 && 3==3);
+    System.out.println(23<3);
+    System.out.println(6==6);
+    System.out.println(a);
+    System.out.println(remainder);
+    System.out.println(m);
+    System.out.println(v);
+
+}
